@@ -9,7 +9,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 **Coding Activity (WakaTime, last 30 Days)**
 
-<img src="https://wakatime.com/share/@018db92c-0781-401e-813c-e2b37ad37584/5c941b76-5e52-4945-a5f1-4f3cdbf7a955.svg"/>
+<img src="https://wakatime.com/share/@018db92c-0781-401e-813c-e2b37ad37584/ef4a22f0-4d97-4b6b-b6c3-e165578eddfb.svg"/>
 
 <br/>
 
