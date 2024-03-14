@@ -7,17 +7,17 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 <br/>
 
-**Coding Activity (WakaTime, last 30 Days)**
-
-<img src="https://wakatime.com/share/@018db92c-0781-401e-813c-e2b37ad37584/ef4a22f0-4d97-4b6b-b6c3-e165578eddfb.svg"/>
-
-<br/>
-
 **Wanna contact me?**
 
 <a href="https://github.com/knerio"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/639416958923702292"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://twitch.tv/dopalos_"><img src="https://img.shields.io/badge/-twitch-blue?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 
 <br />
+
+**Coding Activity (WakaTime, last 30 Days)**
+
+<img src="https://wakatime.com/share/@018db92c-0781-401e-813c-e2b37ad37584/ef4a22f0-4d97-4b6b-b6c3-e165578eddfb.svg"/>
+
+<br/>
 
 **Languages**
 
