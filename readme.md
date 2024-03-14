@@ -9,7 +9,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 **Wanna contact me?**
 
-<a href="https://github.com/knerio"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/639416958923702292"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://twitch.tv/dopalos_"><img src="https://img.shields.io/badge/-twitch-blue?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://github.com/knerio"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/639416958923702292"><img src="https://img.shields.io/badge/-KNERIO-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://twitch.tv/dopalos_"><img src="https://img.shields.io/badge/-twitch-blue?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 
 <br />
 
