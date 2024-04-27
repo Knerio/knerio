@@ -26,7 +26,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
  **Frameworks / Libraries / Others**
 
-<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/> <img src="https://img.shields.io/badge/-RubyOnRails-blue?style=for-the-badge&logo=Rails&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/> <img src="https://img.shields.io/badge/-rails-blue?style=for-the-badge&logo=Rails&logoColor=white"/>
 
 **Databases**
 
