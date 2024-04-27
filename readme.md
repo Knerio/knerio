@@ -34,3 +34,4 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Databases**
 
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postgress-blue?style=for-the-badge&logo=Postgress&logoColor=white"/>
