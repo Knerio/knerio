@@ -40,9 +40,9 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:history_knerio-->
-1. 💬 Commented on [#39](https://api.github.com/repos/Taucher2003/GitLab-Pipeline-Action/issues/comments/2140967015) in [Taucher2003/GitLab-Pipeline-Action](https://api.github.com/repos/Taucher2003/GitLab-Pipeline-Action)
-2. Pushed on [main](https://api.github.com/repos/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
-3. Pushed on [main](https://api.github.com/repos/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
-4. Pushed on [main](https://api.github.com/repos/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
-5. Pushed on [main](https://api.github.com/repos/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
+1. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
+2. 💬 Commented on [#39](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/comments/2140967015) in [Taucher2003/GitLab-Pipeline-Action](https://api.github.com/repos/Taucher2003/GitLab-Pipeline-Action)
+3. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
+4. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
+5. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
 <!--END_SECTION:history_knerio-->
