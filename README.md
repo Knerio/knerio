@@ -11,12 +11,12 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 <a href="https://github.com/knerio"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/639416958923702292"><img src="https://img.shields.io/badge/-knerio-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://twitch.tv/dopalos_"><img src="https://img.shields.io/badge/-twitch-blue?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 
-<br />
+<br/>
 
 **Languages**
 
 <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/-Markdown-blue?style=for-the-badge&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON-blue?style=for-the-badge&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/-Ruby-blue?style=for-the-badge&logo=Ruby&logoColor=white"/>
-<br />
+<br/>
 
  **Frameworks / Libraries / Others**
 
