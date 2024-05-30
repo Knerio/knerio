@@ -34,4 +34,8 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
