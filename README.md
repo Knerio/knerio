@@ -44,5 +44,5 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 2. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
 3. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
 4. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
-5. 💬 Commented on [#39](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/39) in [Taucher2003/GitLab-Pipeline-Action](https://api.github.com/repos/Taucher2003/GitLab-Pipeline-Action)
+5. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio)
 <!--END_SECTION:history_knerio-->
