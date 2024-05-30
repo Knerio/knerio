@@ -1,0 +1,15 @@
+name: Update Readme
+
+on:
+  push:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  update-readme:
+    name: Updates README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
