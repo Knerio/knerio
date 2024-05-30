@@ -30,7 +30,11 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             1 hr 52 mins    ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+TypeScript       1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
+Vue.js           42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+CSS              26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+YAML             25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
