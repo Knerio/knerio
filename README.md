@@ -42,9 +42,9 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-2. 📔 Created new repository [Knerio/GithubLibrary](https://github.com/Knerio/GithubLibrary)<br>
-3. ⭐ Starred [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. 🎉 Merged PR [#3](https://github.com/Knerio/GithubHistoryAction/pull/3) in [Knerio/GithubHistoryAction](https://github.com/Knerio/GithubHistoryAction)<br>
-5. 🎉 Merged PR [#2](https://github.com/Knerio/GithubHistoryAction/pull/2) in [Knerio/GithubHistoryAction](https://github.com/Knerio/GithubHistoryAction)<br>
+1. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. ❗️ Opened issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
+4. 📔 Created new repository [Knerio/GithubLibrary](https://github.com/Knerio/GithubLibrary)<br>
+5. ⭐ Starred [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
