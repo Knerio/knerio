@@ -42,9 +42,9 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-2. ⬆️ Pushed 2 commit(s) to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-3. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. ⬆️ Pushed 1 commit(s) to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+1. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+2. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+3. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+5. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
