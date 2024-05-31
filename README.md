@@ -40,13 +40,13 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:history_knerio-->
-1. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 05-152-2024
-2. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 05-152-2024
-3. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 05-152-2024
-4. Pushed on [main](https://github.com/Knerio/JavaUtils/tree/main) in [Knerio/JavaUtils](https://api.github.com/repos/Knerio/JavaUtils) 11:50 05-152-2024
-5. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:50 05-152-2024
-6. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:49 05-152-2024
-7. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:48 05-152-2024
-8. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:47 05-152-2024
-9. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:46 05-152-2024
+1. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 31-05-2024
+2. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 31-05-2024
+3. Pushed on [main](https://github.com/Knerio/GithubHistoryAction/tree/main) in [Knerio/GithubHistoryAction](https://api.github.com/repos/Knerio/GithubHistoryAction) 12:00 31-05-2024
+4. Pushed on [main](https://github.com/Knerio/JavaUtils/tree/main) in [Knerio/JavaUtils](https://api.github.com/repos/Knerio/JavaUtils) 11:50 31-05-2024
+5. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:50 31-05-2024
+6. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:49 31-05-2024
+7. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:48 31-05-2024
+8. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:47 31-05-2024
+9. Pushed on [main](https://github.com/Knerio/knerio/tree/main) in [Knerio/knerio](https://api.github.com/repos/Knerio/knerio) 11:46 31-05-2024
 <!--END_SECTION:history_knerio-->
