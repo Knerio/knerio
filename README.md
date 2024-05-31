@@ -42,14 +42,14 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-2. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-3. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+1. 📖 Created new wiki page [_Sidebar](https://github.com/Knerio/JavaUtils/wiki/_Sidebar) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. 📖 Created new wiki page [installation](https://github.com/Knerio/JavaUtils/wiki/installation) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 4. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-5. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-8. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-9. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
-10. ⬆️ Pushed to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+5. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+6. 📖 Created new wiki page [Instalation](https://github.com/Knerio/JavaUtils/wiki/Instalation) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. 📖 Created new wiki page [Home](https://github.com/Knerio/JavaUtils/wiki/Home) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+8. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+9. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
