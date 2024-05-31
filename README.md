@@ -39,6 +39,8 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+**Recent Activiy**
+
 <!--RECENT_ACTIVITY:start-->
 
 
