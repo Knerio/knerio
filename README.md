@@ -42,14 +42,14 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-2. 🎉 Merged PR [#25](https://github.com/Knerio/JavaUtils/pull/25) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ❌ Closed PR [#27](https://github.com/Knerio/JavaUtils/pull/27) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 3. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-4. ✌️ Released [](https://github.com/Knerio/JavaUtils/releases/tag/1.4.13) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 5. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 6. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ✌️ Released [1.4.12](https://github.com/Knerio/JavaUtils/releases/tag/1.4.12) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+7. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 8. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 9. ⬆️ Pushed to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-10. ✌️ Released [1.4.11](https://github.com/Knerio/JavaUtils/releases/tag/1.4.11) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+10. 💪 Opened PR [#27](https://github.com/Knerio/JavaUtils/pull/27) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
