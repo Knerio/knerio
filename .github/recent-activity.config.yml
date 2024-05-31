@@ -12,6 +12,7 @@ settings:
   commit_username: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
 messages:
+  push: "Pushed on {ID} in {REPO} {DATE}"
   comments: "💬 Commented on {ID} in {REPO} {DATE}"
   issue_opened: "❗️ Opened issue {ID} in {REPO} {DATE}"
   issue_closed: "✔️ Closed issue {ID} in {REPO} {DATE}"
