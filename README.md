@@ -42,9 +42,9 @@ YAML             25 mins         █▓░░░░░░░░░░░░░�
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-2. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-3. ❗️ Opened issue [#32](https://github.com/Knerio/SimpleChals/issues/32) in [Knerio/SimpleChals](https://github.com/Knerio/SimpleChals)<br>
-4. 📔 Created new repository [Knerio/GithubLibrary](https://github.com/Knerio/GithubLibrary)<br>
-5. ⭐ Starred [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+1. ⬆️ Pushed 1 commit(s) to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
+2. ⬆️ Pushed 2 commit(s) to [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. 🎉 Merged PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. 💪 Opened PR [#23](https://github.com/Knerio/JavaUtils/pull/23) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+5. ⬆️ Pushed 1 commit(s) to [Knerio/knerio](https://github.com/Knerio/knerio)<br>
 <!--RECENT_ACTIVITY:end-->
