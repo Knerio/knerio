@@ -28,10 +28,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Knerio/GithubSyncFilesAction/pull/2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-2. 🎉 Merged PR [#3](https://github.com/Knerio/GithubSyncFilesAction/pull/3) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-3. 🎉 Merged PR [#1](https://github.com/Knerio/GithubSyncFilesAction/pull/1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-4. ⭐ Starred [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+1. ⭐ Starred [Knerio/knerio](https://github.com/Knerio/knerio)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
