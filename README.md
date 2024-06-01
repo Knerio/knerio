@@ -28,7 +28,10 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **Recent Activiy**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+1. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+2. ✌️ Released [2.0.1](https://github.com/Knerio/JavaUtils/releases/tag/2.0.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+3. 🎉 Merged PR [#28](https://github.com/Knerio/JavaUtils/pull/28) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
+4. ✌️ Released [2.0.0](https://github.com/Knerio/JavaUtils/releases/tag/2.0.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
