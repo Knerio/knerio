@@ -29,7 +29,6 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
-2. ⭐ Starred [Knerio/knerio](https://github.com/Knerio/knerio)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
