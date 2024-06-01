@@ -38,9 +38,9 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 835 Contributions in the Year 2024
+> 🏆 834 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
@@ -106,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 13:06:27 UTC
+ Last Updated on 01/06/2024 13:07:29 UTC
 <!--END_SECTION:waka-->
 
 **Recent Activiy**
