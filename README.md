@@ -25,7 +25,16 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQl&logoColor=white"/>
 
-**My Last Week**
+**Recent Activiy**
+
+<!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#2](https://github.com/Knerio/GithubSyncFilesAction/pull/2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+2. 🎉 Merged PR [#3](https://github.com/Knerio/GithubSyncFilesAction/pull/3) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+3. 🎉 Merged PR [#1](https://github.com/Knerio/GithubSyncFilesAction/pull/1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+4. ⭐ Starred [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
+<!--RECENT_ACTIVITY:end-->
+ 
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%203%20mins-blue)
@@ -38,9 +47,9 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 834 Contributions in the Year 2024
+> 🏆 835 Contributions in the Year 2024
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
@@ -106,14 +115,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 13:07:29 UTC
+ Last Updated on 01/06/2024 13:06:27 UTC
 <!--END_SECTION:waka-->
 
-**Recent Activiy**
-
-<!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Knerio/GithubSyncFilesAction/pull/2) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-2. 🎉 Merged PR [#3](https://github.com/Knerio/GithubSyncFilesAction/pull/3) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-3. 🎉 Merged PR [#1](https://github.com/Knerio/GithubSyncFilesAction/pull/1) in [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-4. ⭐ Starred [Knerio/GithubSyncFilesAction](https://github.com/Knerio/GithubSyncFilesAction)<br>
-<!--RECENT_ACTIVITY:end-->
