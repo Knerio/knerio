@@ -28,7 +28,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 **My Last Week**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-907-blue)
 
@@ -36,7 +36,7 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 834 Contributions in the Year 2024
+> 🏆 835 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,19 +48,19 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 
 ```text
 🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-🌆 Daytime                654 commits         ████████░░░░░░░░░░░░░░░░░   30.26 % 
-🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.90 % 
-🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+🌆 Daytime                655 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                992 commits         ███████████░░░░░░░░░░░░░░   45.88 % 
+🌙 Night                  450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Saturday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 
@@ -103,12 +103,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Knerio/Knerio/main/assets/bar_graph.png)
-
-
- Last Updated on 01/06/2024 12:51:05 UTC
+ Last Updated on 01/06/2024 12:55:32 UTC
 <!--END_SECTION:waka-->
 
 **Recent Activiy**
