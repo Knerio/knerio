@@ -1,6 +1,7 @@
-name: Update Readme
+name: Update Wakatime Readme
 
 on:
+  push:
   schedule:
     - cron: "0 * * * *"
 
