@@ -1,4 +1,4 @@
-name: Hourly README Wakatime Updater
+name: Hourly  Readme Updater
 
 on:
   push:
@@ -17,4 +17,4 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_PROJECTS: "True" 
+         
