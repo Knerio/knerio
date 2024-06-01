@@ -14,5 +14,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SHOW_PROJECTS: "True" 
           COMMIT_MESSAGE: "Update Wakatime Weekly Activity"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
