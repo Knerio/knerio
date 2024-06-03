@@ -33,8 +33,6 @@ programming. I'm currently into Frontend & Minecraft development. I mainly devel
 3. ❌ Closed PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
 4. 💪 Opened PR [#4](https://github.com/Knerio/knerio.github.io/pull/4) in [Knerio/knerio.github.io](https://github.com/Knerio/knerio.github.io)<br>
 5. 🎉 Merged PR [#29](https://github.com/Knerio/JavaUtils/pull/29) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-6. ✌️ Released [2.1.1](https://github.com/Knerio/JavaUtils/releases/tag/2.1.1) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
-7. ✌️ Released [2.1.0](https://github.com/Knerio/JavaUtils/releases/tag/2.1.0) in [Knerio/JavaUtils](https://github.com/Knerio/JavaUtils)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
