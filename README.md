@@ -36,7 +36,6 @@ programming. I'm currently into Backend & Minecraft development. I mainly develo
 6. 🎉 Merged PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 7. 🔱 Forked [Knerio/wheel-of-fortune](https://github.com/Knerio/wheel-of-fortune) from [takuyakanbr/wheel-of-fortune](https://github.com/takuyakanbr/wheel-of-fortune)<br>
 8. ❗️ Opened issue [#6](https://github.com/code0-tech/code0-identities/issues/6) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-9. 💪 Opened PR [#5](https://github.com/code0-tech/code0-identities/pull/5) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
