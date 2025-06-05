@@ -1,0 +1,16 @@
+[init]
+        defaultBranch = main
+[user]
+        email = derioreal63@gmail.com
+        name = Dario Pranjic
+        signingkey = F62D564C11387FD3AF34CC0D1A227DF2C0AF3EFC
+[alias]
+        clear-branches = !sh -c 'git fetch && git branch --merged | egrep -v \"(^\\*|master|main)\"' -
+        clear-branches-run = !sh -c 'git clear-branches | xargs git branch -d' -
+[core]
+        autocrlf = input
+[gpg]
+        program = gpg
+
+[commit]
+        gpgSign = true
