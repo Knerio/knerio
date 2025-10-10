@@ -28,12 +28,15 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 **Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#574](https://github.com/code0-tech/sagittarius/pull/574) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 💪 Opened PR [#570](https://github.com/code0-tech/sagittarius/pull/570) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#569](https://github.com/code0-tech/sagittarius/pull/569) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-6. ❗️ Opened issue [#126](https://github.com/code0-tech/tucana/issues/126) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#595](https://github.com/code0-tech/sagittarius/pull/595) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#594](https://github.com/code0-tech/sagittarius/issues/594) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ❗️ Opened issue [#593](https://github.com/code0-tech/sagittarius/issues/593) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#574](https://github.com/code0-tech/sagittarius/pull/574) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+6. ✔️ Closed issue [#502](https://github.com/code0-tech/sagittarius/issues/502) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+7. 💪 Opened PR [#570](https://github.com/code0-tech/sagittarius/pull/570) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+8. 💪 Opened PR [#569](https://github.com/code0-tech/sagittarius/pull/569) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+9. ❗️ Opened issue [#126](https://github.com/code0-tech/tucana/issues/126) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
