@@ -37,7 +37,6 @@ programming. I'm currently into Backend & Discord Bot development. I mainly deve
 7. 💬 Commented on [#782](https://github.com/code0-tech/sagittarius/pull/782#discussion_r2724656346) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 8. 💪 Opened PR [#200](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 9. ✌️ Released [0.0.51](https://github.com/code0-tech/tucana/releases/tag/0.0.51) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-10. 💬 Commented on [#787](https://github.com/code0-tech/sagittarius/pull/787#issuecomment-3790955070) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
  
 #
